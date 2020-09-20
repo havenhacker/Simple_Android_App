@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Food Order</string>
+    <string name="title_activity_main">Food Order</string>
+    <string name="title_foodItem">Food Items</string>
+    <string name="option_title_preferences">Meal Preferences</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="option_breakfast">Breakfast</string>
+    <string name="option_lunch">Lunch</string>
+    <string name="option_dinner">Dinner</string>
+    <string name="tv_name">Name: </string>
+    <string name="tv_steps">Steps: </string>
+    <string name="tv_ingredient">Ingredient: </string>
+    <string name="tv_description">Description: </string>
+    <string name="title_activity_fooddetail">Food Detail</string>
+    <string name="option_ascend">Time Ascend</string>
+    <string name="option_desc">Time Descend</string>
+    <string name="option_add">Add to favorites</string>
+    <string name="option_delete">Remove</string>
+</resources>
